@@ -1,0 +1,17 @@
+This project includes third-party software components licensed under their respective terms:
+
+---
+
+QWSTPad Python Module by Pimoroni  
+Licensed under the MIT License  
+https://github.com/pimoroni/qwstpad-micropython/blob/main/src/qwstpad.py
+
+---
+
+LEDWave Script for QWSTPad  
+Licensed under the MIT License  
+Original author: Pimoroni
+Source: https://github.com/pimoroni/qwstpad-micropython/blob/main/examples/function/led_wave.py
+---
+
+These components are used in accordance with their licenses. See individual source files for license details.
