@@ -1,3 +1,5 @@
+# Apologies in advance, i got my rights and lefts mixed up in this script lol
+
 import time
 import ujson as json
 import uos
