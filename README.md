@@ -1,7 +1,12 @@
 miljoenpi
 =========
-
 A videogame system for the Pi Pico, Pimoroni GFX Pack, and the Pimoroni Qw/ST Gamepad.
+
+
+<img width="500" height="375" alt="menu" src="https://github.com/user-attachments/assets/c8a0d4d4-04f0-4058-84b0-75c2b9ad7c79" />
+
+
+
 
 Overview
 --------
@@ -45,3 +50,5 @@ Adding Your Own Games
 ---------------------
 
 Just drop your .py files into the Pico’s root directory. As long as they follow the input conventions and use "r" to reset, they’ll work seamlessly with the launcher.
+
+<img width="500" height="375" alt="menu" src="https://github.com/user-attachments/assets/754e6e25-dfe2-47e6-83d9-9fd2d6ec9002" />
